@@ -1,2 +1,2 @@
-# sharing-android
+# share-android
 Share SDK for Android
